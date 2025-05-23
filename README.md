@@ -5,7 +5,8 @@
 A modern Next.js application for managing users with a beautiful UI built with Next.js, React, and Tailwind CSS.
 
 <img width="1433" alt="Screenshot 2025-05-23 at 4 22 24 PM" src="https://github.com/user-attachments/assets/759aa05c-8052-469c-8758-ae993f78f48b" />
-## Features
+
+##Features
 
 
 - **User Management**: Create, view, update, and delete users
